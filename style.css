@@ -1,0 +1,57 @@
+body{
+    font-family: 'Crimson Text', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1-text{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-postion{
+    padding-left: 8%;
+    padding-top: 15%;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+
+.orange{
+    color: orange;
+}
+
+.order_icon{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    font-weight: 500px; 
+    padding: 10px 40px;
+    border-radius: 15px;
+    background-image: linear-gradient(orange , orangered);
+    box-shadow:5px 5px 10px orange;
+}
+
+.para{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.half-width img{
+    background-image: url(images/);
+}
+
+.person-image{
+    width: 350px;
+}
+
+.about-me{
+    
+}
