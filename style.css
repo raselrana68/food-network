@@ -44,14 +44,23 @@ body{
     padding-bottom: 5%;
 }
 
-.half-width img{
+.header_img{
     background-image: url(images/);
 }
 
-.person-image{
-    width: 350px;
-}
+/*  About Me*/
 
 .about-me{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
     
 }
+
+.person_image{
+    width: 350px;
+    padding-left: 200px;
+    margin-top: 30px;
+    height: 95%;
+}
+
+.
